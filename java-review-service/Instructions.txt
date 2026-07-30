@@ -1,0 +1,3 @@
+To run springboot, type "mvnw.cmd spring-boot:run" in the command prompt run in the java-review-service folder.
+
+Navigate to "http://localhost:8081/api/reviews" in browser.
